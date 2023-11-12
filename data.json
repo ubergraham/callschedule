@@ -1,0 +1,46 @@
+{
+  "doctors": [
+    {
+      "Doctor Name": "Dr. Smith",
+      "Specialty": "General Surgery",
+      "On Call Start Date": "2023-11-12",
+      "On Call End Date": "2023-11-15",
+      "Phone Number": "415-555-5551"
+    },
+    {
+      "Doctor Name": "Dr. Johnson",
+      "Specialty": "General Surgery",
+      "On Call Start Date": "2023-11-15",
+      "On Call End Date": "2023-11-20",
+      "Phone Number": "415-555-5552"
+    },
+    {
+      "Doctor Name": "Dr. Williams",
+      "Specialty": "Cardiology",
+      "On Call Start Date": "2023-11-12",
+      "On Call End Date": "2023-11-16",
+      "Phone Number": "415-555-5553"
+    },
+    {
+      "Doctor Name": "Dr. Jones",
+      "Specialty": "Cardiology",
+      "On Call Start Date": "2023-11-18",
+      "On Call End Date": "2023-11-20",
+      "Phone Number": "415-555-5554"
+    },
+    {
+      "Doctor Name": "Dr. Brown",
+      "Specialty": "Neurology",
+      "On Call Start Date": "2023-11-12",
+      "On Call End Date": "2023-11-16",
+      "Phone Number": "415-555-5555"
+    },
+    {
+      "Doctor Name": "Dr. Davis",
+      "Specialty": "Neurology",
+      "On Call Start Date": "2023-11-16",
+      "On Call End Date": "2023-11-20",
+      "Phone Number": "415-555-5556"
+    }
+  ]
+}
