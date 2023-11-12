@@ -6,7 +6,7 @@
       "On Call Start Date": "2023-11-11",
       "On Call End Date": "2023-11-15",
       "Work Phone Number": "415-555-5551",
-      "Comments": "If unable to reach the doctor, please call home phone number."
+      "Backup Call Preference": "call home phone number."
     },
     {
       "Doctor Name": "Dr. Johnson",
@@ -14,7 +14,7 @@
       "On Call Start Date": "2023-11-16",
       "On Call End Date": "2023-11-20",
       "Work Phone Number": "415-555-5552",
-      "Comments": "If unable to reach the doctor, please call home phone number."
+      "Backup Call Preference": "call home phone number."
     },
     {
       "Doctor Name": "Dr. Williams",
@@ -22,7 +22,7 @@
       "On Call Start Date": "2023-11-11",
       "On Call End Date": "2023-11-16",
       "Work Phone Number": "415-555-5553",
-      "Comments": "If unable to reach the doctor, please call personal cell number."
+      "Backup Call Preference": "call personal cell number."
     },
     {
       "Doctor Name": "Dr. Jones",
@@ -30,7 +30,7 @@
       "On Call Start Date": "2023-11-17",
       "On Call End Date": "2023-11-20",
       "Work Phone Number": "415-555-5554",
-      "Comments": "If unable to reach the doctor, please call home phone number."
+      "Backup Call Preference": "call home phone number."
     },
     {
       "Doctor Name": "Dr. Brown",
@@ -38,7 +38,7 @@
       "On Call Start Date": "2023-11-11",
       "On Call End Date": "2023-11-16",
       "Work Phone Number": "415-555-5555",
-      "Comments": "If unable to reach the doctor, please call home phone number."
+      "Backup Call Preference": "call home phone number."
     },
     {
       "Doctor Name": "Dr. Davis",
@@ -46,7 +46,7 @@
       "On Call Start Date": "2023-11-17",
       "On Call End Date": "2023-11-20",
       "Work Phone Number": "415-555-5556",
-      "Comments": "If unable to reach the doctor, please call home phone number."
+      "Backup Call Preference": "call home phone number."
     }
   ]
 }
